@@ -32,7 +32,7 @@ window.addEventListener('DOMContentLoaded', () => {
                     .add(this.dataset.value);
             });
         });
-        
+
     document
         .querySelector('#close-button')
         .addEventListener('click', function(event) {
