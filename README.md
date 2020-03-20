@@ -11,6 +11,6 @@ In Terminal:
 
 + Copy and paste:
 
-`git clone https://github.com/dfwheeler394/connectFour.git && cd connectFour && open index.html` into your command line
+`git clone https://github.com/dfwheeler394/connect-4.git && cd connectFour && open index.html` into your command line
 
 + Find your brother, your mother, or a friendly stranger on the street and connect four!
