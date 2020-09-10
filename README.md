@@ -2,7 +2,6 @@ My brother and I spend countless hours playing this simple, yet addictive game.
 When I learned to code, I wondered if we could automate our experience.
 This is the result.
 
-
 Want to play yourself? Follow these simple steps:
 
 In Terminal:
